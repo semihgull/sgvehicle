@@ -1,0 +1,17 @@
+body{
+    background-color: #eee;
+}
+.has-error{
+    border: 2px solid red;
+}
+.error-msg{
+    background: orangered;
+    color: #fff;
+    padding: 5px 10px;
+}
+.msg{
+    background: cornflowerblue;
+    color: white;
+    padding: 5px 10px;
+    font-size: 24px;
+}
